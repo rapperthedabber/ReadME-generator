@@ -11,8 +11,6 @@
   * [Installation](#installation)
   
   * [Usage](#usage)
-
-  * [Contributing](#contributing)
   
   * [Tests](#tests)
   
@@ -24,10 +22,6 @@
   # Usage
 
   Use it by answering prompts in the terminal 
-
-  # Contributing
-
- Pull Request
 
   # Tests
 
