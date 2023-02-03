@@ -1,9 +1,9 @@
 # ReadMe-generator 
-  <img src="https://img.shields.io/badge/license-GPL 3.0-blue.svg" alt="Github license">
+  <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Github license">
 
   # Description 
 
-  This application enbales users to generate a ReadMe file by answering prompts given
+  The application generates a Readme file based on the questions you have answered in the terminal
 
   ## Table of Contents 
   
@@ -20,28 +20,28 @@
   * [Questions](#questions)
 
   # Installation
-  npm test
+  You need to install inquirer and npm in order to make it work 
   
   # Usage
 
-  Use it by answering prompts in the terminal 
+  You use the app by answering prompts in the terminal
 
   ## License 
-This project is licensed under the GPL 3.0 license.
+This project is licensed under the MIT license.
 
   # Contributing
 
- Pull Request
+ N/A
 
   # Tests
 
- NPM
+ NPM 
 
   # Questions 
 
-  if you have any questions, you can email me @ jamesharold1738@gmail.com
+  if you have any questions, you can email me @ Jamesharold1738@gmail.com
 
-  if you have want to see my work, you can see it @  [rapperthedabber](https://github.com/rapperthedabber/)
+  if you have want to see my work, you can see it @  [Rapperthedabber](https://github.com/Rapperthedabber/)
 
 
 
