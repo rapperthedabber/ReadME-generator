@@ -16,7 +16,7 @@
   * [Tests](#tests)
   
   * [Questions](#questions)
-  * [Link to demo](#Link to demo)
+  * [Link](#Link)
 
   # Installation
   npm test
